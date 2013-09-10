@@ -2,7 +2,7 @@
 
 ### New Enhancements in JavaScript Boilerplate Version 2.0
 
- 1. Should be library agnostic - no other library like jQuery dependency	[P1]
+ 1. Library agnostic - no other library like jQuery dependency	[P1]
  2. Extend a module from outside main module 	[P2]
  3. Loose coupling using pub/sub pattern	[P1]
  4. AMD		[P1]
@@ -16,3 +16,4 @@
  12. NPM module 	[P4]
  13. JSHint			[P1]
  14. Configuration file should be there	[P1]
+ 15. Custom Build to export specific modules	[P4]
