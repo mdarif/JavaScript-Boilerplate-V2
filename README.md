@@ -18,3 +18,4 @@
  14. Configuration file should be there							[P1]
  15. Custom Build to export specific modules					[P4]
  16. Event Messaging											[P1]
+ 17. Continuous Integration (CI)              [P2]
